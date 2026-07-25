@@ -1,0 +1,13 @@
+id,nombre,sede_id,presupuesto
+1,Ventas,1,1500000.00
+2,Soporte,1,850000.50
+3,Ingeniería,1,3200000.00
+4,Marketing,2,720000.00
+5,"Ventas, Región Sur",2,640000.00
+6,Finanzas,3,1100000.00
+7,Recursos Humanos,3,480000.25
+8,Logística,4,950000.00
+9,Calidad,4,
+10,Investigación,5,2750000.00
+11,Soporte Técnico,5,530000.75
+12,Dirección,6,9876543210.99
